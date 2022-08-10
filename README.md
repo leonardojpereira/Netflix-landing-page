@@ -1,4 +1,4 @@
-# Landing page Netflix
+# Netflix landing page
 
 Netflix landing page made with html, css, javascript and a lot of dedication! 😊
 
