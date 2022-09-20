@@ -1,13 +1,23 @@
-# Netflix landing page
+![netflix_project_img](https://user-images.githubusercontent.com/87662269/191380872-53c8f796-fb81-454e-bc6b-7034fcfecfba.JPG)
 
-Netflix landing page made with html, css, javascript and a lot of dedication! 😊
 
-### 📋 Requirements and Instalation
+<h1 align="center">
+Netflix Landing Page :tv:
+</h1>
 
-To view this application, extract the files after downloading from github, and open the index.html file as in the example bellow.
+<h2>
+  :pencil: Descrição do projeto
+</h2>
+
+<p>
+ Um clone legítimo da página inicial de uma das maiores plataformas de streaming do mundo, a Netflix!
+</p>
+
+
+### 📋 Deploy
 
 ```
-index.html
+
 ```
 
 ## 🛠️ Made with
