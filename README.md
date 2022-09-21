@@ -27,7 +27,7 @@ Netflix Landing Page :tv:
 https://leonardojpereira.github.io/Netflix-landing-page/
 ```
 
-## 🛠️ Made with
+## 🛠️ Feito com
 * [Visual Studio Code](https://code.visualstudio.com) - Coding Editor
 
 ---
