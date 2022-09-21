@@ -14,6 +14,13 @@ Netflix Landing Page :tv:
 </p>
 
 
+## 💻 Tecnologias utilizadas
+<div display="flex">
+  <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 ### :link: Deploy
 
 ```
@@ -25,3 +32,9 @@ https://leonardojpereira.github.io/Netflix-landing-page/
 
 ---
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
+
+<h3 align="center">
+  
+  :construction: PROJETO FINALIZADO :construction:
+  
+</h3>
