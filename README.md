@@ -14,7 +14,7 @@ Netflix Landing Page :tv:
 </p>
 
 
-### 📋 Deploy
+### :link: Deploy
 
 ```
 
