@@ -17,7 +17,7 @@ Netflix Landing Page :tv:
 ### :link: Deploy
 
 ```
-
+https://leonardojpereira.github.io/Netflix-landing-page/
 ```
 
 ## 🛠️ Made with
