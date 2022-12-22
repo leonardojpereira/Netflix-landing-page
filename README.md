@@ -24,7 +24,7 @@ Netflix Landing Page :tv:
 ### :link: Deploy
 
 ```
-https://leonardojpereira.github.io/Netflix-landing-page/
+https://netflixlandingpagecloneapp.netlify.app/
 ```
 
 ## 🛠️ Feito com
